@@ -71,4 +71,4 @@
 	<li>Now open a Microsoft application and login with registered account to get access</li>
 	<li>User can access the Microsoft Office 365 personal now.</li>
 </ul>
-</div>
+</div> 
